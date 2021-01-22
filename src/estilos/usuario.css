@@ -1,0 +1,14 @@
+.usuario{
+    width: 100px;
+     height: 100px;
+     -moz-border-radius: 50%;
+     -webkit-border-radius: 50%;
+     border-radius: 50%;
+     background: #5cb85c;
+     grid-column: 1/2;
+     grid-row: -1/-2;
+     transition-property: grid-area;
+     transition-duration: 3s;
+    z-index: 20;
+
+}
