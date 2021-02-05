@@ -1,0 +1,38 @@
+.botones{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 20rem;
+    height:30rem;
+    margin:0;
+    padding:0;
+}
+
+#particles{
+    height: 70vh;
+    width: 100%;
+    position: fixed;
+    z-index: -1;
+    bottom: 0;
+}
+.boton{
+    width: 10rem;
+    height: 3rem;
+    border: black 3px solid;
+    background-color: none;
+    color:black
+}
+.inicio{
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+p{
+    margin:0;
+    padding: 0;
+}
+

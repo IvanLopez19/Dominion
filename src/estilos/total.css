@@ -1,0 +1,24 @@
+.total{
+    height: 100vh;
+    position:relative;
+    overflow: hidden;
+}
+
+.navbar{
+    position:absolute;
+    height: 100vh;
+    width: 30px;
+    right: 0;
+    background-color: black;
+    z-index: 40;
+}
+
+.Menu{
+    width: 30em;
+    height: 100%;
+    background-color: darkslategrey;
+    position: absolute;
+    right: 0;
+    transform: translateX(30em);
+    z-index: 30;
+}

@@ -4,6 +4,7 @@ import CasillaGrande from './casillaGrande'
 import '../estilos/tablero.css'
 import CasillaEmpresa from './casillaEmpresas';
 import Usuario from './usuario';
+import Menu from './menujuego';
 
 
 class Tablero extends Component{

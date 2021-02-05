@@ -1,5 +1,8 @@
 import React, {Component} from 'react';
+
+//import styled from 'styled-components';
 //import '../estilos/tablero.css'
+
 
 class Casilla extends Component{
 
@@ -13,7 +16,7 @@ class Casilla extends Component{
 
     render(){
         return(
-        <div className="casilla"></div>)
+        <div className='casilla'></div>)
     }
 }
 

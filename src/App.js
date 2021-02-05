@@ -1,11 +1,15 @@
 import React from 'react';
-import Tablero from './componentes/tablero'
+//import Tablero from './componentes/tablero'
 //import logo from './logo.svg';
 import './App.css';
+//import Menu from './componentes/menujuego';
+//import {BrowserRouter as Router, Route} from 'react-router-dom';
+import Inicio from './componentes/inicio';
+import Total from './componentes/total';
 
 function App() {
   return (
-    <Tablero/>
+    <Total/>
     /*<div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />

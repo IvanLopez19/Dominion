@@ -141,6 +141,8 @@ class Usuario extends Component{
                 }
             }
         }
+        /* const contenedor = document.getElementsByClassName('contenedor');
+        document.getElementsByClassName('usuario').setAtribute('style','') */
         
         this.setState({
             x:x,
